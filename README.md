@@ -56,7 +56,7 @@ Run the database seeder and you're done
     php artisan migrate:refresh
 
 
-The api can be accessed at [http://localhost:8000/api](http://localhost:8000/api).
+The api can be accessed at [http://localhost:8000/api](http://127.0.0.1:8000/api).
 
 Api Documentation(Postman) https://documenter.getpostman.com/view/24277776/2s8YYMpMmu
 
