@@ -1,0 +1,96 @@
+body{
+    background: #e9ecef;
+    font-family: 'Source Sans Pro'!important;
+}
+.card-info.card-outline {
+    border-top: 3px solid #17a2b8!important;
+}
+.card-header{
+    background: #fff;
+}
+.card-header h1{
+    color: #000;
+    text-transform: uppercase;
+    font-size: 26px;
+}
+html,body{
+    min-height: 100%;
+    height: 100%;
+}
+.card {
+    box-shadow: 0 0 1px rgb(0 0 0 / 13%), 0 1px 3px rgb(0 0 0 / 20%);
+    margin-bottom: 1rem;
+    border: none!important;
+}
+.card-header {
+    background-color: transparent;
+    border-bottom: 1px solid rgba(0,0,0,.125);
+    padding: 0.75rem 1.25rem;
+    position: relative;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+}
+.form-control:focus{
+    box-shadow: none;
+}
+.invalid-feedback {
+     display: block!important;
+    width: 100%;
+    margin-top: 0.25rem;
+    font-size: 0.875em;
+    color: #dc3545;
+    font-weight: 300;
+}
+table th{
+    font-size: 14px;
+    font-weight: 600;
+}
+table td{
+    font-size: 14px;
+}
+.card .card-statistic-4 {
+    position: relative;
+    padding: 15px;
+    border-radius: 3px;
+    overflow: hidden;
+}
+.bg-green {
+    background-color: #4caf50 !important;
+    color: #fff;
+}
+.bg-deep-orange {
+    background-color: #ff5722 !important;
+    color: #fff;
+}
+.bg-cyan {
+    background-color: #29c0b1 !important;
+    color: #fff;
+}
+.bg-indigo {
+    background-color: #6777ef !important;
+    color: #fff;
+}
+h6 {
+    font-size: 18px;
+    font-weight: 500;
+}
+.card .card-statistic-4 .c-icon {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+    top: 40px;
+    font-size: 25px;
+    border-radius: 8px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    color: #fff;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
