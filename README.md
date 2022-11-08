@@ -60,4 +60,6 @@ Run the database seeder and you're done
 
 The api can be accessed at [http://localhost:8000/api](http://localhost:8000/api).
 
+Postman Documentation https://documenter.getpostman.com/view/24277776/2s8YYMpMmu
+
 
